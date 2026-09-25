@@ -1,0 +1,18 @@
+[
+  {
+    "rol": "system",
+    "contenido": "Eres un experto en inteligencia artificial."
+  },
+  {
+    "rol": "user",
+    "contenido": "¿Qué es RAG y por qué es importante en producción?"
+  },
+  {
+    "rol": "assistant",
+    "contenido": "RAG combina la generación de un modelo con información recuperada de documentos."
+  },
+  {
+    "rol": "user",
+    "contenido": "¿Cuáles son sus limitaciones?"
+  }
+]

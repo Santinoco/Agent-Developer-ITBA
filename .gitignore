@@ -1,0 +1,26 @@
+# Entorno virtual
+env/
+.venv/
+
+# Variables de entorno / secretos
+.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos y resultados generados localmente
+**/.qdrant*/
+**/data/qdrant/
+**/artifacts/
+output/
+tmp/
+
+# Copias comprimidas de material ya incluido en el repositorio
+*.zip
+
+# Editor
+.vscode/
